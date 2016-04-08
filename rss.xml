@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jon Bibbs]]></title>
         <description><![CDATA[Jon Bibbs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jon-bibbs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 18:28:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 18:29:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jon-bibbs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95e6b3c2-bc7f-4ed1-be03-d74225d392e7.jpg">]]></description>
-            <link>undefined3b1b3dfa-2203-4b70-a07e-9e02bb72262d/index.html</link>
+            <link>https://thegrid.ai/jon-bibbs/3b1b3dfa-2203-4b70-a07e-9e02bb72262d/index.html</link>
             <guid isPermaLink="false">3b1b3dfa-2203-4b70-a07e-9e02bb72262d</guid>
-            <pubDate>Fri, 08 Apr 2016 18:27:58 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2016 18:28:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
