@@ -1,0 +1,28 @@
+name: Jon Bibbs
+favicon: null
+layout_spectrum: 0.13602503365837038
+typography_spectrum: 0.5085571764502674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.10236652148887515
+  lightness: 0.6178134921938181
+  saturation: 0.1985400104895234
+  rhythmicContrast: 0.7038218306843191
+purpose: []
